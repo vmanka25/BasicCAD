@@ -51,12 +51,11 @@ The second thing I had to make was the base. the dimensions were 120 mm by 120 m
 
 ### Image
 
-
+I am don't know how to add the image
 
 ### Reflection
 
----
-
+This was my second part and it was pretty easy. I learned how to use the pattern feature for sketches
 
 ## Fork
 
