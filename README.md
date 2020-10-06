@@ -73,20 +73,25 @@ The fork is my third part that I made it is made with 2 cylinders, and 2 parts t
 
 ### Reflection
 
-This was probably the hardet part, so far and I learned how to use the plane tool better. I needed to use the plane tool to make a hole through the wheel holders.
+This was probably the hardest part, so far and I learned how to use the plane tool better. I needed to use the plane tool to make a hole through the wheel holders.
 
 ## Tire
 
 ### Description
 
+This will be the tire of the caster. It has an outer diameter of 110 mm, and an inner diameter, of 80mm. It has rounded edges.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/400888578c9533da5db56373/w/bce8fb309f26bea3ead48698/e/3b5d80ece7a5e09d2ccb335c
 
 ### Image
 
+?
+
 ### Reflection
 
----
-
+this part was fun but challenging to make, I didn't read the instructions all the way through so it took me a while to center the sketch, but I made it work. I learned that you can center things on a line by making two lines on each side then setting them equal to each other. I don't know if thats the fastest way though.
 
 ## Wheel
 
