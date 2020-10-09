@@ -97,14 +97,19 @@ this part was fun but challenging to make, I didn't read the instructions all th
 
 ### Description
 
+This is the inner part of the wheel
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/4e4c031d50dace8053942678/w/4fc39d6f9ce6d2536424d400/e/496f3f80168267a0df9ece35
 
 ### Image
 
+?
+
 ### Reflection
 
----
-
+This part has been the hardest to make so far. the beginning was easy but then when I had to pattern the support, it just wouldn,t work and I don't know how to make it work. I started using q as a shortcut for construction lines.
 
 ## AxleCollarBearings
 
