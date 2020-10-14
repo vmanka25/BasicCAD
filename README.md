@@ -51,7 +51,7 @@ The second thing I had to make was the base. the dimensions were 120 mm by 120 m
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+<img src="https://raw.githubusercontent.com/vmanka25/BasicCAD/main/images/mount.png" width="400">
 
 ### Reflection
 
