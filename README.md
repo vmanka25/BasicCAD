@@ -69,7 +69,7 @@ The fork is my third part that I made it is made with 2 cylinders, and 2 parts t
 
 ### Image
 
-?
+<img src="https://raw.githubusercontent.com/vmanka25/BasicCAD/main/images/fork.png" width="400">
 
 ### Reflection
 
@@ -87,7 +87,7 @@ https://cvilleschools.onshape.com/documents/400888578c9533da5db56373/w/bce8fb309
 
 ### Image
 
-?
+<img src="https://raw.githubusercontent.com/vmanka25/BasicCAD/main/images/tire.png" width="400">
 
 ### Reflection
 
@@ -105,7 +105,7 @@ https://cvilleschools.onshape.com/documents/4e4c031d50dace8053942678/w/4fc39d6f9
 
 ### Image
 
-?
+<img src="https://raw.githubusercontent.com/vmanka25/BasicCAD/main/images/wheel.png" width="400">
 
 ### Reflection
 
