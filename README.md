@@ -122,7 +122,7 @@ This is the axle for the wheel of the caster along with berrings, and a collar.t
 https://cvilleschools.onshape.com/documents/160f71db1f5a2386ecbb9f72/w/7b7d4d13320c99efe0fe1ed4/e/bda3c4585bc35aca5816e10c
 
 ### Image
-
+<img src="https://github.com/vmanka25/BasicCAD/blob/main/Screenshot%202020-11-04%20102452.png?raw=true" width="400">
 ### Reflection
 
----
+I didn't really learn anythng in the making of this part, but I am getting a lot better at onshape.
