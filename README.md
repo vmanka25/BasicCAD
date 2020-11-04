@@ -115,7 +115,11 @@ This part has been the hardest to make so far. the beginning was easy but then w
 
 ### Description
 
+This is the axle for the wheel of the caster along with berrings, and a collar.the axle is 60 mm long, and 10 mm in diameter.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/160f71db1f5a2386ecbb9f72/w/7b7d4d13320c99efe0fe1ed4/e/bda3c4585bc35aca5816e10c
 
 ### Image
 
