@@ -122,7 +122,45 @@ This is the axle for the wheel of the caster along with berrings, and a collar.t
 https://cvilleschools.onshape.com/documents/160f71db1f5a2386ecbb9f72/w/7b7d4d13320c99efe0fe1ed4/e/bda3c4585bc35aca5816e10c
 
 ### Image
+
 <img src="https://github.com/vmanka25/BasicCAD/blob/main/Screenshot%202020-11-04%20102452.png?raw=true" width="400">
+
 ### Reflection
 
 I didn't really learn anythng in the making of this part, but I am getting a lot better at onshape.
+
+## Sub-Assembly
+
+### Description
+
+This was the sub-assembly of the wheel tire axle and berrings.
+
+### Evidence
+
+https://cvilleschools.onshape.com/documents/d48104be19e8ddf7259f782b/w/8cc64547faa46302f5e8967a/e/18c2db359a944814b9a2a5b1
+
+### Image
+
+<img src="https://github.com/vmanka25/BasicCAD/blob/main/sub%20assembly.png?raw=true" width="400">
+
+### Reflection
+
+Thsi assembly wasn't to hard, but i leardned how to better use the mate features.
+
+## Assembly
+
+### Description
+
+This was the final part of the caster, where I put all of the parts together
+
+## Evidence
+
+https://cvilleschools.onshape.com/documents/eca7dc33df6bb84482b54f73/w/56a5ad6877a76f557cc1012d/e/9f172b876bcc761a984970ce?configuration=default
+
+## Image
+
+<img src="https://github.com/vmanka25/BasicCAD/blob/main/Assembly.png?raw=true" width="400">
+
+## Reflection
+
+I learned a lot with this assembly, I made a couple mistakes that I only realized when I was putting all the parts together. I learned to pay more attention to measurements, because if the measurements are wrong they won't fit together in the assembly.
